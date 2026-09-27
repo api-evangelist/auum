@@ -1,0 +1,8 @@
+generated: 2026-09-26
+method: probed
+source: https://www.auum.fr/_api/mcp
+deployment:
+  mode: remote
+  endpoint: https://www.auum.fr/_api/mcp
+  auth: unknown
+  verified: probed
